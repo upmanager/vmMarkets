@@ -1,0 +1,2 @@
+@inject('util', 'App\Util')
+
