@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => 'Markets',  //env('APP_NAME', 'Multi-Restaurants Food Delivery'),
+    'name' => 'PUDO Service',  //env('APP_NAME', 'Multi-Restaurants Food Delivery'),
 
     /*
     |--------------------------------------------------------------------------
